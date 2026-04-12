@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="timestamp-modifier-gui/timestamp-modifier-gui.vcxproj" Id="0a51fec4-555b-437e-9b51-a2c7762f853f" />
   <Project Path="timestamp-modifier/timestamp-modifier.vcxproj" Id="59dc405f-0f22-4153-8a56-53327e9c2c1c" />
 </Solution>
